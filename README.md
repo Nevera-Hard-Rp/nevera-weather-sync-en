@@ -1,5 +1,7 @@
 # Nevera Weather Sync
 
+🛒 **Buy Now via Tebex**: [https://your-tebex-link.com](https://your-tebex-link.com)
+
 **Nevera Weather Sync** is a premium FiveM resource that synchronizes real-time weather and clock in-game using data from the real world through the OpenWeatherMap API.
 
 ---
