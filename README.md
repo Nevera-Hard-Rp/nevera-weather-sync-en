@@ -127,21 +127,13 @@ Config.HighWindThreshold = 10
 
 ## FAQ
 
-**How do I increase the weather notification duration?**
-
-In `config.lua`:
+**How can I extend the duration of the weather notification?**  
+In the `config.lua` file, you can change the `Config.NotificationDuration` setting to your desired number of milliseconds.  
+For example, for a display lasting 30 seconds:
 
 ```lua
-Config.NotificationDuration = 30000  -- 30 seconds
+Config.NotificationDuration = 30000  -- 30 seconds (30000 ms)
 ```
-
-### Česta pitanja
-
-**Kako mogu produžiti trajanje prikaza obavijesti o vremenu?**
-U datoteci `config.lua` možete promijeniti postavku `Config.NotificationDuration` na željeni broj milisekundi. 
-Na primjer, za prikaz koji traje 30 sekundi:
-```lua
-Config.NotificationDuration = 30000  -- 30 sekundi (30000 ms)
 
 ---
 
